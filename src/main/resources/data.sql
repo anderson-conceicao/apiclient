@@ -1,0 +1,14 @@
+insert into tb_client (name,cpf,income,birth_Date,children) values ('Anderson Silva','512.423.190-42',10000.00,'1986-01-17T10:30:00Z',1);
+insert into tb_client (name,cpf,income,birth_Date,children) values ('Maria Santos','512.423.190-41',10000.00,'1986-01-17T10:30:00Z',1);
+insert into tb_client (name,cpf,income,birth_Date,children) values ('João Carlos ','512.423.180-42',7000.00,'1986-01-17T10:30:00Z',1);
+insert into tb_client (name,cpf,income,birth_Date,children) values ('Carlos Magno','512.423.190-52',12000.00,'1986-01-17T10:30:00Z',1);
+insert into tb_client (name,cpf,income,birth_Date,children) values ('Fulano de Tal','512.423.190-52',8000.00,'1986-01-17T10:30:00Z',1);
+insert into tb_client (name,cpf,income,birth_Date,children) values ('Mario Dantas','512.423.190-52',1900.00,'1986-01-17T10:30:00Z',1);
+insert into tb_client (name,cpf,income,birth_Date,children) values ('Barry Allen','512.423.190-52',10080.00,'1986-01-17T10:30:00Z',1);
+insert into tb_client (name,cpf,income,birth_Date,children) values ('Marcos Santos','512.423.190-52',10000.00,'1986-01-17T10:30:00Z',1);
+insert into tb_client (name,cpf,income,birth_Date,children) values ('Davi Luiz','512.423.190-52',10000.00,'1986-01-17T10:30:00Z',1);
+insert into tb_client (name,cpf,income,birth_Date,children) values ('Gabi Gol','512.423.190-52',10000.00,'1986-01-17T10:30:00Z',1);
+insert into tb_client (name,cpf,income,birth_Date,children) values ('Julio Cesar','512.423.190-52',10000.00,'1986-01-17T10:30:00Z',1);
+insert into tb_client (name,cpf,income,birth_Date,children) values ('Mariana Costa','512.423.190-52',10000.00,'1986-01-17T10:30:00Z',1);
+insert into tb_client (name,cpf,income,birth_Date,children) values ('Clara Menezes','512.423.190-52',10000.00,'1986-01-17T10:30:00Z',1);
+insert into tb_client (name,cpf,income,birth_Date,children) values ('Adriana Silva','512.423.190-52',10000.00,'1986-01-17T10:30:00Z',1);
